@@ -1,6 +1,20 @@
 # QB Hackathon 2025, Team Pathway
 
-AI-powered chat interface that integrates with Quickbase workflows using local Ollama models for conversation analysis and sentiment tracking.
+Create conversational AI assistants for customer interactions—no code required. Business teams can design flows in Quickbase, and customers can chat to select products, submit requests, renew contracts, and more.
+
+![Demo](demo.gif)
+
+## Overview
+
+This project enables companies running on Quickbase to deploy AI-powered chat assistants that:
+
+- **Follow structured flows** stored in Quickbase tables with context-adaptive responses
+- **Understand customer sentiment** and track it throughout conversations
+- **Execute tools** for calculations, document generation, and external integrations via Pipelines
+- **Generate summaries** for both customers (with download/print options) and internal teams
+- **Provide analytics** through Quickbase dashboards showing flow usage, sentiment distribution, completion rates, and session clustering
+
+All conversation data and insights are stored in Quickbase for visualization and analysis.
 
 ## Quick Start
 
