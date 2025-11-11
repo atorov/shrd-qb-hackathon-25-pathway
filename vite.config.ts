@@ -1,8 +1,8 @@
+import react from '@vitejs/plugin-react-swc';
 import fs from 'fs';
 import path from 'path';
 import { defineConfig } from 'vite';
 import { viteSingleFile } from 'vite-plugin-singlefile';
-import react from '@vitejs/plugin-react-swc';
 
 const key = fs.readFileSync('./cert.key');
 const cert = fs.readFileSync('./cert.crt');

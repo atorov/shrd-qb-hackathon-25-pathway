@@ -1,4 +1,4 @@
-# QB-25
+# QB Hackathon 2025, Team Pathway
 
 AI-powered chat interface that integrates with Quickbase workflows using local Ollama models for conversation analysis and sentiment tracking.
 
