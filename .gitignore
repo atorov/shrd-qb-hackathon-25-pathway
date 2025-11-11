@@ -9,7 +9,6 @@ dist
 dist-ssr
 *.local
 
-.vscode/*
 .DS_Store
 
 ca.crt
