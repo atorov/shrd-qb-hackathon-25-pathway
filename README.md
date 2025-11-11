@@ -2,7 +2,7 @@
 
 Create conversational AI assistants for customer interactions—no code required. Business teams can design flows in Quickbase, and customers can chat to select products, submit requests, renew contracts, and more.
 
-![Demo](demo.gif)
+![Demo](https://github.com/atorov/shrd-qb-hackathon-25-pathway/blob/master/public/demo.gif)
 
 ## Overview
 
